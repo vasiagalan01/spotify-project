@@ -3,6 +3,11 @@ In this project we perform an Exploratory Data Analysis (EDA) on a dataset of 11
 
 Objective: Analyze Spotify streaming trends to uncover patterns in music consumption.
 
+Our team: 
+Vassia Galanopoulou
+Aggeliki Triantafyllou
+Vasiliki Nterkou
+
 💡 Key columns in this dataset include:
 
 * track_id: The unique Spotify ID for each track.<br>

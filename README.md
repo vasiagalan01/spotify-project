@@ -1,9 +1,11 @@
-# 🎧 Spotify Songs Analysis Project
-In this project we perform an Exploratory Data Analysis (EDA) on a dataset of 114,000 Spotify tracks sourced from Kaggle.
+## 🎧 Spotify Songs Analysis Project
+This is my first project developed as part of the Big Blue Data Academy Data Science Bootcamp. 
 
-Objective: Analyze Spotify streaming trends to uncover patterns in music consumption.
+In this project me and my team performed an Exploratory Data Analysis (EDA) on a dataset of 114,000 Spotify tracks sourced from Kaggle.
 
-Our team: 
+🎯 Objective: Analyzing Spotify streaming trends to uncover patterns in music consumption.
+
+Team members: 
 
 **Vassia Galanopoulou**<br>
 **Aggeliki Triantafyllou**<br>

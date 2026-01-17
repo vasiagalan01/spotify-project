@@ -1,4 +1,4 @@
-## 🎧 Spotify Songs Analysis Project
+## 🎧 Spotify Songs Analysis Project (EDA)
 This is my first project developed as part of the Big Blue Data Academy Data Science Bootcamp. 
 
 In this project me and my team performed an Exploratory Data Analysis (EDA) on a dataset of 114,000 Spotify tracks sourced from Kaggle.
